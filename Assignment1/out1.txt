@@ -1,0 +1,26 @@
+Versopm 1: 3 characters in 50 characters
+ Time taken: 743400 nanoseconds
+version 2: 3 characters in 50 characters
+ Time taken: 113300 nanoseconds
+Similar to version 2: 3 characters in 50 characters
+ Time taken: 250700 nanoseconds
+
+
+
+
+Versopm 1: 3 characters in 50 characters
+ Time taken: 3245700 nanoseconds
+version 2: 5 characters in 50 characters
+ Time taken: 2059700 nanoseconds
+Similar to version 2: 5 characters in 50 characters
+ Time taken: 1857800 nanoseconds
+
+
+
+
+version 1: 10 characters in 50 characters
+ Time taken: 133 seconds
+version 2: 10 characters in 50 characters
+ Time taken: 105 seconds
+Similar to version 2: 10 characters in 50 characters
+ Time taken: 103 seconds

@@ -1,0 +1,40 @@
+Expression: 1+2
+3
+Expression: 2-1
+1
+Expression: 4*4
+16
+Expression: 5/3
+1
+Expression: 3+(3*2)
+9
+Expression: -3+2
+-1
+Expression: 5^2
+25
+Expression: 21+23
+44
+Expression: -20+5
+-15
+Expression: 15/5
+3
+Expression: 9!
+362880
+Expression: 3+2 + 3!
+11
+Expression: 3+(3-4)
+2
+Expression: (2+1)!
+6
+Expression: 4-3
+1
+Expression: 3!=3
+0
+Expression: (5*5)== 2
+0
+Expression: (12+12)== (5/5)
+0
+Expression: 5>2
+1
+Expression: (2+4+-2)<2
+0
